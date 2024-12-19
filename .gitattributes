@@ -1,2 +1,6 @@
 dataset_left.csv filter=lfs diff=lfs merge=lfs -text
 *.joblib filter=lfs diff=lfs merge=lfs -text
+dataset_right.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.joblib filter=lfs diff=lfs merge=lfs -text
+prediction.ipynb filter=lfs diff=lfs merge=lfs -text
